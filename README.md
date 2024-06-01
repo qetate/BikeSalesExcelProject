@@ -11,4 +11,4 @@ This Excel project focuses on cleaning and analyzing a dataset related to bike p
 ## Skills Demonstrated
 - **Data Cleaning:** Applied various techniques to clean and preprocess the dataset for analysis, such as creating a new column to categorize individuals into different age groups.
 - **Data Analysis:** Utilized pivot tables and Excel functions to derive insights from the data.
-- **Dashboard Creation:** Designed a dashboard to present analytical findings in a visually appealing manner.# BikeSalesExcelProject
+- **Dashboard Creation:** Designed a dashboard to present analytical findings in a visually appealing manner.
